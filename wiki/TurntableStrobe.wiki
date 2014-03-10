@@ -1,0 +1,16 @@
+#summary Pocket sized strobe for calibrating turntable speed
+
+= Introduction =
+
+Turntable strobe is a tiny, highly accurate, battery-powered strobe for calibrating the speed of your turntable. As in vinyl. Records. With the grooves.
+
+Purchase [https://www.tindie.com/products/bot_thoughts/pocket-turntable-strobe/ here on Tindie.com]
+
+= Details =
+
+ * Runs on a tiny CR1225 battery
+ * Bright white 5mm LED strobes at 60.0 Hz
+ * frequency error less than 0.005% or 0.03 Hz.
+ * Tactile button to turn the strobe on
+ * Use a 60Hz turntable check disk
+ * 1" long, 3/4" wide, not counting LED
