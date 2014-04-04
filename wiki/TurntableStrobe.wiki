@@ -1,5 +1,6 @@
 #summary Pocket sized strobe for calibrating turntable speed
 
+<img src="https://lh6.googleusercontent.com/-BbtgVEZIJCQ/Uz8gxkNkb4I/AAAAAAAAJ_w/Gn1JE8Y25wY/w800-h533-no/IMG_9934_modified.JPG" align="right" width="400"/>
 = Introduction =
 
 Turntable strobe is a tiny, highly accurate, battery-powered strobe for calibrating the speed of your turntable. As in vinyl. Records. With the grooves.
@@ -14,3 +15,26 @@ Purchase [https://www.tindie.com/products/bot_thoughts/pocket-turntable-strobe/ 
  * Tactile button to turn the strobe on
  * Use a 60Hz turntable check disk
  * 1" long, 3/4" wide, not counting LED
+
+= How To Use =
+
+ * Install a CR1225 battery, matching + on battery to + on battery holder
+ * Depress the tactile button to turn on
+ * Print out this free strobe disc [http://www.extremephono.com/ftp/60Hz.PDF 60Hz.PDF]
+ * Cut out the strobe disc and punch a hole in the center
+ * Place disc on platter like a record
+ * Activate the turntable to begin spinning the platter
+ * Select speed you want to adjust
+ * Shine strobe light on..
+    * the outer ring of marks for 33-1/3 rpm
+    * the inner ring of marks for 45 rpm
+ * Under the strobe
+    * The ring will appear as individual marks
+    * The individual marks may slowly move
+
+[https://lh6.googleusercontent.com/-bC_mgMrZ4JQ/Ux_lB75x8OI/AAAAAAAAJ8A/RGP_N763NXQ/w400-h533-no/2014-02-28T20-33-32.010Z-2014-02-27+13.02.45.jpg.2560x2560_q85.jpg]
+
+ * Adjust turntable speed until marks stop moving (as applicable)
+    * Read the turntable user manual for details
+ * You may see the marks repeatedly move left and right a bit
+    * That is called 'wow' and some tables have it worse than others
