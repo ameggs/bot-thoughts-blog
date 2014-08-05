@@ -5,22 +5,28 @@
 
 Turntable strobe is a tiny, highly accurate, battery-powered strobe for calibrating the speed of your turntable. As in vinyl. Records. With the grooves.
 
+Many turntables use mains frequency to run their strobes. While on average frequency from your outlet is 60 Hz (or 50 Hz depending), the frequency varies from hour to hour based on the load on the grid. Be sure with this tiny turntable strobe.
+
+Other turntables lack a strobe altogether. Now you can check speed calibration easily with this strobe.
+
 Purchase [https://www.tindie.com/products/bot_thoughts/pocket-turntable-strobe/ here on Tindie.com]
 
 = Details =
 
  * Runs on a tiny CR1225 battery
- * Bright white 5mm LED strobes at 60.0 Hz
+ * Bright white 5mm LED strobes at 60.00 Hz or 50.00 Hz
  * frequency error less than 0.005% or 0.03 Hz.
  * Tactile button to turn the strobe on
- * Use a 60Hz turntable check disk
+ * Use a 50Hz / 60Hz turntable check disk
  * 1" long, 3/4" wide, not counting LED
+
+Note that 45 RPM discs for 50.00 Hz strobes cannot exist; the number of dots required is not an integer. Instead, strobe patterns are typically 45.1 rpm. I have been told that some European "45 rpm" discs are actually cut at 45.1 rpm.
 
 = How To Use =
 
  * Install a CR1225 battery, matching + on battery to + on battery holder
  * Depress the tactile button to turn on
- * Print out this free strobe disc [http://www.extremephono.com/ftp/60Hz.PDF 60Hz.PDF]
+ * Print out a free strobe disc to match your strobe: [http://www.extremephono.com/ftp/60Hz.PDF 60Hz.PDF] or  [http://www.extremephono.com/ftp/50Hz.PDF 50Hz.PDF]
  * Cut out the strobe disc and punch a hole in the center
  * Place disc on platter like a record
  * Activate the turntable to begin spinning the platter
