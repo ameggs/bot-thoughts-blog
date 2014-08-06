@@ -5,6 +5,8 @@
 
 Turntable strobe is a tiny, highly accurate, battery-powered strobe for calibrating the speed of your turntable. As in vinyl. Records. With the grooves.
 
+There's also a standalone TurntableStrobeModule available.
+
 Many turntables use mains frequency to run their strobes. While on average frequency from your outlet is 60 Hz (or 50 Hz depending), the frequency varies from hour to hour based on the load on the grid. Be sure with this tiny turntable strobe.
 
 Other turntables lack a strobe altogether. Now you can check speed calibration easily with this strobe.
