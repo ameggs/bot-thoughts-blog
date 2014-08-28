@@ -54,3 +54,7 @@ A third interesting fact is that increasing current has diminishing returns in b
 Knowing all this, and knowing about Ohm's law and Kirchoff's current law means you can figure out what the input voltage maximum. Let's target 15mA, assume that the onboard microcontroller "low" signal is 0.5V, and the LED resistor is 100 ohms.
 
 Thus, V = VLED + 1.2, where VLED is the forward voltage drop, VF, for the LED. That gives you in the ballpark of 15mA and, hopefully, keep you well under the typical limit of 20mA if the LED Vf and onboard resistor are at the lower end of their specifications.
+
+= Source Files =
+
+[http://code.google.com/p/bot-thoughts-blog/source/browse/#svn%2Ftrunk%2FTurntableStrobe Schematic & PCB; firmware]
