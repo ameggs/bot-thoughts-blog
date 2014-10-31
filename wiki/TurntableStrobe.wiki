@@ -1,19 +1,21 @@
-#summary Pocket sized strobe for calibrating turntable speed
+#summary Tiny, accurate strobe for calibrating turntable speed
 
-<img src="https://lh6.googleusercontent.com/-BbtgVEZIJCQ/Uz8gxkNkb4I/AAAAAAAAJ_w/Gn1JE8Y25wY/w800-h533-no/IMG_9934_modified.JPG" align="right" width="400"/>
+||<img src="https://lh4.googleusercontent.com/-2RztI6uc--I/VFPfUW2TAMI/AAAAAAAAKiA/g87hWCyl5y0/w761-h571-no/StrobeHandheld.JPG" width="400"/>||<img src="https://lh4.googleusercontent.com/-vFXDUihe0Ko/VFPfW0gNFZI/AAAAAAAAKiI/jexglRxRebs/w761-h571-no/StrobeModule.JPG" width="400"/>||
+||handheld, portable||permanent mount, retrofit kit||
+
 = Introduction =
 
-Turntable strobe is a tiny, highly accurate, battery-powered strobe for calibrating the speed of your turntable. As in vinyl. Records. With the grooves.
-
-There's also a standalone TurntableStrobeModule available.
-
-Many turntables use mains frequency to run their strobes. While on average frequency from your outlet is 60 Hz (or 50 Hz depending), the frequency varies from hour to hour based on the load on the grid. Be sure with this tiny turntable strobe.
-
-Other turntables lack a strobe altogether. Now you can check speed calibration easily with this strobe.
+Calibrate your turntable with these tiny, accurate strobes and spin your vinyl at the right speed. They come in a handheld, portable version and also a permanent-mount, retrofit kit version.
 
 Purchase [https://www.tindie.com/products/bot_thoughts/pocket-turntable-strobe/ here on Tindie.com]
 
-= Details =
+= Handheld Portable Strobe =
+
+This strobe is portable, tiny, battery-powered for calibrating the speed of all of your turntables and those of your pals.
+
+Many turntables' strobes run off of gradually fluctuating mains frequency. Some don't have strobes at all. Get your deck's speed right and be sure with this tiny turntable strobe.
+
+== Details ==
 
  * Runs on a tiny CR1225 battery
  * Bright white 5mm LED strobes at 60.00 Hz or 50.00 Hz
@@ -22,10 +24,9 @@ Purchase [https://www.tindie.com/products/bot_thoughts/pocket-turntable-strobe/ 
  * Use a 50Hz / 60Hz turntable check disk
  * 1" long, 3/4" wide, not counting LED
 
-Note that 45 RPM discs for 50.00 Hz strobes cannot exist; the number of dots required is not an integer. Instead, strobe patterns are typically 45.1 rpm. I have been told that some European "45 rpm" discs are actually cut at 45.1 rpm.
+== How To Use ==
 
-= How To Use =
-
+<img src="https://lh6.googleusercontent.com/-bC_mgMrZ4JQ/Ux_lB75x8OI/AAAAAAAAJ8A/RGP_N763NXQ/w400-h533-no/2014-02-28T20-33-32.010Z-2014-02-27+13.02.45.jpg.2560x2560_q85.jpg" align=right width=200/>
  * Install a CR1225 battery, matching + on battery to + on battery holder
  * Depress the tactile button to turn on
  * Print out a free strobe disc to match your strobe: [http://www.extremephono.com/ftp/60Hz.PDF 60Hz.PDF] or  [http://www.extremephono.com/ftp/50Hz.PDF 50Hz.PDF]
@@ -39,10 +40,30 @@ Note that 45 RPM discs for 50.00 Hz strobes cannot exist; the number of dots req
  * Under the strobe
     * The ring will appear as individual marks
     * The individual marks may slowly move
-
-[https://lh6.googleusercontent.com/-bC_mgMrZ4JQ/Ux_lB75x8OI/AAAAAAAAJ8A/RGP_N763NXQ/w400-h533-no/2014-02-28T20-33-32.010Z-2014-02-27+13.02.45.jpg.2560x2560_q85.jpg]
-
  * Adjust turntable speed until marks stop moving (as applicable)
     * Read the turntable user manual for details
  * You may see the marks repeatedly move left and right a bit
     * That is called 'wow' and some tables have it worse than others
+
+= Permanent Mount Retrofit Kit =
+
+You can replace your old strobe with this kit, and a bit of ingenuity.
+
+ * Runs from 5V supply, maximum
+ * Features a bright white 5mm LED at 60.0 Hz
+ * Frequency error less than 0.005% or 0.03 Hz.
+ * Use your platter's existing strobe marks
+ * 1" long, 7/8" wide, not counting LED
+
+== Installation ==
+
+DISCLAIMER: safely using this device is your responsibility. Please consult with a qualified individual before attempting to modify your turntable. Please install and power it safely.
+
+ * Find a place to put the thing.
+ * You can solder wires onto the LED and mount the module remotely.
+ * You'll need a 5VDC power supply.
+ * Connect/solder the 5VDC supply to the 5V/GND pins on the board.
+ * Mount the board with #4 screws, hot glue, whatever works
+
+== 45.0 RPM or 45.1 RPM? ==
+Note that 45 RPM discs for 50.00 Hz strobes cannot exist; the number of dots required is not an integer. Instead, strobe patterns are typically 45.1 rpm. I have been told that some European "45 rpm" discs are actually cut at 45.1 rpm.
