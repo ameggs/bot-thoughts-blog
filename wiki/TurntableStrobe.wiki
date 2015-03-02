@@ -19,7 +19,7 @@ Many turntables' strobes run off of gradually fluctuating mains frequency. Some 
 
  * Runs on a tiny CR1225 battery
  * Bright white 5mm LED strobes at 60.00 Hz or 50.00 Hz
- * frequency error less than 0.005%
+ * Crystal rated at ±0.003% accuracy
  * Tactile button to turn the strobe on
  * Use a 50Hz / 60Hz turntable check disk
  * 1" long, 3/4" wide, not counting LED
@@ -51,7 +51,7 @@ You can replace your old strobe with this kit, and a bit of ingenuity.
 
  * Runs from 5V supply, maximum
  * Features a bright white 5mm LED at 60.0 Hz
- * Frequency error less than 0.005%
+ * Crystal rated at ±0.003% accuracy
  * Use your platter's existing strobe marks
  * 1" long, 7/8" wide, not counting LED
 
@@ -67,3 +67,8 @@ DISCLAIMER: safely using this device is your responsibility. Please consult with
 
 == 45.0 RPM or 45.1 RPM? ==
 Note that 45 RPM discs for 50.00 Hz strobes cannot exist; the number of dots required is not an integer. Instead, strobe patterns are typically 45.1 rpm. I have been told that some European "45 rpm" discs are actually cut at 45.1 rpm.
+
+== Accuracy ==
+The quartz crystals selected for use on the Turntable strobe modules have a frequency tolerance of ±30 ppm at 25 ºC (±0.003%). Temperature stability is ±30 ppm over (-20 - +70 ºC) but of course we can expect a much narrower range for normal indoor use thus temperature would contribute negligible error.
+
+Frequency has been measured within 0.005% or better on every TurntableStrobe tested so far, using a Saleae Logic analyzer with 42ns accuracy.
