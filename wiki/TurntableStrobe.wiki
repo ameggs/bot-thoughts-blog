@@ -19,7 +19,7 @@ Many turntables' strobes run off of gradually fluctuating mains frequency. Some 
 
  * Runs on a tiny CR1225 battery
  * Bright white 5mm LED strobes at 60.00 Hz or 50.00 Hz
- * frequency error less than 0.005% or 0.03 Hz.
+ * frequency error less than 0.005%
  * Tactile button to turn the strobe on
  * Use a 50Hz / 60Hz turntable check disk
  * 1" long, 3/4" wide, not counting LED
@@ -51,7 +51,7 @@ You can replace your old strobe with this kit, and a bit of ingenuity.
 
  * Runs from 5V supply, maximum
  * Features a bright white 5mm LED at 60.0 Hz
- * Frequency error less than 0.005% or 0.03 Hz.
+ * Frequency error less than 0.005%
  * Use your platter's existing strobe marks
  * 1" long, 7/8" wide, not counting LED
 
